@@ -20,5 +20,6 @@ ax.tick_params(axis='both', which='major', labelsize=14)
 ax.axis([0, 1100, 0, 1100000])
 
 if __name__ == "__main__":
-    plt.savefig('square_scatterplot.png', bbox_inches='tight')  # To automatically save plots
+    plt.savefig('square_scatterplot.png', bbox_inches='tight')  # To
+    # automatically save plots
     plt.show()

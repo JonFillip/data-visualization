@@ -1,32 +1,31 @@
 from random import choice
 
 
-class RandomWalk:
-    """A class to generate random walks."""
-
+class MolecularMotion:
+    """A class to simulate motion path of a pollen grain on the surface of a
+    drop of water"""
     def __init__(self, num_points=5000):
-        """Initialize attributes of a walk."""
+        """Initialize attributes of class."""
         self.num_points = num_points
-
         # All walks start at (0, 0).
         self.x_values = [0]
         self.y_values = [0]
 
     @staticmethod
     def get_step():
-        """Get the direction and distance for each step."""
+        """Get the direction and distance for each grain."""
         direction = choice([-1, 1])
         distance = choice([0, 1, 2, 3, 4])
         step = distance * direction
         return step
 
-    def fill_walk(self):
-        """Calculate all the points in a walk."""
+    def fill_path(self):
+        """Calculate all the points of motion path"""
 
-        # Keep all steps until the walk reaches the desired length.
+        # Keep track of all motion until reaches the desired length.
         while len(self.x_values) < self.num_points:
 
-            # Determine the distance and direction of the walk
+            # Determine the distance and direction of the pollen path
             x_step = self.get_step()
             y_step = self.get_step()
 
