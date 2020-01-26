@@ -1,4 +1,4 @@
-from molecular_motion import MolecularMotion
+from visualization_basics.molecular_motion import MolecularMotion
 import matplotlib.pyplot as plt
 
 # Keep making new walks, as long as the program is active.

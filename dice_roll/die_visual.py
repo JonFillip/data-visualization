@@ -1,6 +1,6 @@
 from plotly.graph_objs import Bar, Layout
 from plotly import offline
-from rolling_dice import Die
+from dice_roll.rolling_dice import Die
 
 # Create a 6 sided die, D6
 die = Die()

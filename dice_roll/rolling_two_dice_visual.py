@@ -1,7 +1,7 @@
 from plotly.graph_objects import Bar, Layout
 from plotly import offline
 
-from rolling_dice import Die
+from dice_roll.rolling_dice import Die
 
 # Create two dice
 die_1 = Die()

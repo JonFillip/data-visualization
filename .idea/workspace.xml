@@ -2,21 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f72bc385-6f8c-4959-8b60-22ba0b066fdf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/johnphillip.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/die_visual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mm_visual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/molecular_motion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rolling_dice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rolling_two_dice_visual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two_d6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/data_visualization.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_visualization.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random_walks.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_walks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rw_visual.py" beforeDir="false" afterPath="$PROJECT_DIR$/rw_visual.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scatter_plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/scatter_plot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cubic_plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/visualization_basics/cubic_plot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d6.html" beforeDir="false" afterPath="$PROJECT_DIR$/dice_roll/d6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/die_visual.py" beforeDir="false" afterPath="$PROJECT_DIR$/dice_roll/die_visual.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mm_visual.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualization_basics/mm_visual.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/molecular_motion.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualization_basics/molecular_motion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plot_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualization_basics/plot_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plot_graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualization_basics/plot_graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random_walks.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_walk/random_walks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rolling_dice.py" beforeDir="false" afterPath="$PROJECT_DIR$/dice_roll/rolling_dice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rolling_two_dice_visual.py" beforeDir="false" afterPath="$PROJECT_DIR$/dice_roll/rolling_two_dice_visual.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rw_visual.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_walk/rw_visual.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scatter_plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualization_basics/scatter_plot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/square_scatterplot.png" beforeDir="false" afterPath="$PROJECT_DIR$/dice_roll/square_scatterplot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/two_d6.html" beforeDir="false" afterPath="$PROJECT_DIR$/dice_roll/two_d6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/two_d6_visual.png" beforeDir="false" afterPath="$PROJECT_DIR$/dice_roll/two_d6_visual.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/visualization_basics" />
+      <recent name="$PROJECT_DIR$/random_walk" />
+      <recent name="$PROJECT_DIR$/rolling_dice" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.rolling_two_dice_visual">
     <configuration name="die_visual" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_visualization" />
@@ -62,7 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/die_visual.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rolling_dice/die_visual.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +91,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mm_visual.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/visualization_basics/mm_visual.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +112,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot_ex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/visualization_basics/plot_ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot_graph.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/visualization_basics/plot_graph.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -146,7 +154,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rolling_two_dice_visual.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dice_roll/rolling_two_dice_visual.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +175,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rw_visual.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random_walk/rw_visual.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,6 +184,14 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.plot_graph" />
+      <item itemvalue="Python.die_visual" />
+      <item itemvalue="Python.mm_visual" />
+      <item itemvalue="Python.plot_ex" />
+      <item itemvalue="Python.rolling_two_dice_visual" />
+      <item itemvalue="Python.rw_visual" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.rolling_two_dice_visual" />
@@ -215,38 +231,38 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="424" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579866035949">
+    <state x="424" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580036822612">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579556804645" />
-    <state x="424" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1579866035949" />
+    <state x="424" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1580036822612" />
     <state x="648" y="275" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579601721014">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="648" y="275" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579601721014" />
-    <state width="1899" height="344" key="GridCell.Tab.0.bottom" timestamp="1579963835837">
+    <state width="1899" height="344" key="GridCell.Tab.0.bottom" timestamp="1580036824582">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state width="949" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579735956008" />
-    <state width="1899" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1579963835837" />
+    <state width="1899" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1580036824582" />
     <state width="1899" height="344" key="GridCell.Tab.0.bottom/0.23.1920.1104@0.23.1920.1104" timestamp="1579905638907" />
-    <state width="1899" height="344" key="GridCell.Tab.0.center" timestamp="1579963835836">
+    <state width="1899" height="344" key="GridCell.Tab.0.center" timestamp="1580036824581">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state width="949" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579735956007" />
-    <state width="1899" height="344" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1579963835836" />
+    <state width="1899" height="344" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1580036824581" />
     <state width="1899" height="344" key="GridCell.Tab.0.center/0.23.1920.1104@0.23.1920.1104" timestamp="1579905638907" />
-    <state width="1899" height="344" key="GridCell.Tab.0.left" timestamp="1579963835835">
+    <state width="1899" height="344" key="GridCell.Tab.0.left" timestamp="1580036824580">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state width="949" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579735956006" />
-    <state width="1899" height="344" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1579963835835" />
+    <state width="1899" height="344" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1580036824580" />
     <state width="1899" height="344" key="GridCell.Tab.0.left/0.23.1920.1104@0.23.1920.1104" timestamp="1579905638906" />
-    <state width="1899" height="344" key="GridCell.Tab.0.right" timestamp="1579963835836">
+    <state width="1899" height="344" key="GridCell.Tab.0.right" timestamp="1580036824581">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state width="949" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579735956008" />
-    <state width="1899" height="344" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1579963835836" />
+    <state width="1899" height="344" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1580036824581" />
     <state width="1899" height="344" key="GridCell.Tab.0.right/0.23.1920.1104@0.23.1920.1104" timestamp="1579905638907" />
     <state x="461" y="239" key="SettingsEditor" timestamp="1579774594577">
       <screen x="0" y="0" width="1920" height="1200" />

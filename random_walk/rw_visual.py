@@ -1,4 +1,4 @@
-from random_walks import RandomWalk
+from random_walk.random_walks import RandomWalk
 import matplotlib.pyplot as plt
 
 # Keep making new walks, as long as the program is active.
